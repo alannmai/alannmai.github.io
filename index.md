@@ -19,3 +19,4 @@ My GitHub page is http://github.com/alannmai.
 * Lab 12
 
     Lab 12, part 1 was another favorite because I was able to transform written code in Visual Studio code into an output gif file which showed a changing gradient of multiple colors. This was the first lab that had the output have multiple images combined into one.
+ 
