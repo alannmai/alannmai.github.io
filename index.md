@@ -4,7 +4,7 @@ This is my home page! My name is Alan Mai and I am a student at [Cal State Fulle
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/alannmai.
+My GitHub page is [http://github.com/alannmai](http://github.com/alannmai).
 
 ### CPSC 120
 
@@ -19,4 +19,3 @@ My GitHub page is http://github.com/alannmai.
 * Lab 12
 
     Lab 12, part 1 was another favorite because I was able to transform written code in Visual Studio code into an output gif file which showed a changing gradient of multiple colors. This was the first lab that had the output have multiple images combined into one.
- 
